@@ -199,3 +199,6 @@ web_1  | Application started. Press Ctrl+C to shut down.
 Killing aspnetcoresql_web_1 ... done
 Killing aspnetcoresql_db_1 ... done
 ```
+
+
+[參考文章出處]： https://docs.docker.com/compose/aspnet-mssql-compose/
